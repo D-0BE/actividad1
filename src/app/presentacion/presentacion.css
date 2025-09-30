@@ -1,0 +1,19 @@
+div{
+    background-color: rgb(33, 33, 33);
+    text-align: center;
+}
+
+h1{
+    font-size:larger;
+    color:rgb(205, 205, 0);
+}
+
+p{
+    font-size:medium;
+    color:rgb(158, 193, 205)
+}
+
+img{
+    width:500px;
+    
+}
